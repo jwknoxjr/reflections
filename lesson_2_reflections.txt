@@ -7,7 +7,9 @@ the working directory get checked in before being committed to a repository.
 This is a convenient way to build up the commit one piece at a time.
 
 How can you use the staging area to make sure you have one commit per logical
-change?
+change?  Use git status to check over the staging area and see each file which
+has changed.  You can mentally check while looking over the changes that all
+changes are for the same logical change.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
