@@ -17,7 +17,9 @@ branch, an Italian language branch, a branch for an experimental feature.  It
 seems that any time you're diverging in a fairly large fashion (which might end
 up being thrown away), a branch is a very good idea.
 
-How do the diagrams help you visualize the branch structure?
+How do the diagrams help you visualize the branch structure?  Mostly, it just
+makes each branch and all its commits easier to see.  One big thing is that it
+will show you if you have any unreachable commits.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
