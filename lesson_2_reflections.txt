@@ -22,7 +22,9 @@ makes each branch and all its commits easier to see.  One big thing is that it
 will show you if you have any unreachable commits.
 
 What is the result of merging two branches together? Why do we represent it in
-the diagram the way we do?
+the diagram the way we do?  The result is the sum of all changes between the
+two branches.  It's represented as two into one convergence because that's 
+just what it is.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
