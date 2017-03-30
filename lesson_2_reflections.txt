@@ -27,4 +27,6 @@ two branches.  It's represented as two into one convergence because that's
 just what it is.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
-manually?
+manually?  Automatic merging is much quicker than manual, and requires much
+less effort.  It can't figure out every merge, though, so sometimes you 
+need to do the manual fixing.
