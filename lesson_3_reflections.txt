@@ -3,3 +3,9 @@ local?
 
 If you want to access the repository from more than one computer, or by more than one person, a remote repository makes this very easy to do.
 
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+
+If others are working on the repository, you probably don't want their additions until you're done implementing
+your changes.  Also, you probably don't want to pull changes until you're done building the change.
+
