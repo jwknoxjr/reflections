@@ -9,3 +9,10 @@ automatically stay up-to-date with your remote repository?
 If others are working on the repository, you probably don't want their additions until you're done implementing
 your changes.  Also, you probably don't want to pull changes until you're done building the change.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Branch is for any new design feature which will be separate from the master (separate so that master
+is always the official branch).  Once done, the branch can be merged back into the master.  A clone is
+a new copy of a repository, either on your workstation or on GitHub.  A fork is only on GitHub, and
+technically is a clone.
+
